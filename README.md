@@ -8,6 +8,5 @@ Semester 1, Academic year: 2024-2025.
 
 **Student ID**: B2111939
 **Student Name**: Nguyen Yen Ngoc
-
 **Class Number**: M01
 
