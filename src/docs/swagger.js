@@ -17,7 +17,7 @@ const options = {
       },
     ],
   },
-  apis: ['./src/routes/*.js', './src/docs/components.yaml'], // Đảm bảo đường dẫn chính xác
+  apis: ['./src/routes/*.js', './src/docs/components.yaml'], 
 };
 
 const specs = swaggerJsdoc(options);
