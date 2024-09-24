@@ -37,3 +37,4 @@ seeds: {
 directory: './seeds',
 },
 };
+
